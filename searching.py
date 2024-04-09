@@ -15,6 +15,7 @@ def read_data(file_name, field):
 
 
 def main():
+    'ahoj'
     pass
 
 
