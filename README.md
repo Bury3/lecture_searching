@@ -1,4 +1,4 @@
-##	Sekvenční vyhledávání v neseřazeném seznamu
+cd le##	Sekvenční vyhledávání v neseřazeném seznamu
 Mějme naše data uložena v iterovatelné datové struktuře (např. seznamu, kde pořadí každé hodnoty je dáno jejím indexem). Základní způsob nalezení konkrétní hodnoty pak spočívá jednoduše v tom, že postupně (v sekvenci) projdeme každý prvek seznamu, dokud nenalezneme naši hodnotu. 
 
 ![img 1](img/sequential.png)
